@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Optical_Mouse)(type Legacy)(uri ${KIPRJMOD}/Optical_Mouse.lib)(options "")(descr ""))
+)

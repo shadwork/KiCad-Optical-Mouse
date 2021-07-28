@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N3904
+D 150mA Ic, 50V Vce, Epitaxial Silicon NPN Transistor, TO-92
+K Epitaxial Silicon NPN Transistor
+F https://datasheetspdf.com/pdf-file/911285/SeCoS/C3199/1
+$ENDCMP
+#
+$CMP Conn_01x04
+D Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector, ps/2
+F ~
+$ENDCMP
+#
+$CMP D2FC-F-7N
+D Ultra Sub Miniature Basic Switch
+K Ultra Sub Miniature Basic Switch
+F https://datasheetspdf.com/pdf-file/846832/Omron/D2FC-F-7N/1
+$ENDCMP
+#
+$CMP OM02
+D Optical Mouse Sensor, ASDIP-16, I-DIP-16
+K Optical Mouse Sensor, ASDIP-16, I-DIP-16
+F http://www.teleic.com/pdf/om02-spec040210.pdf
+$ENDCMP
+#
+$CMP Rotary_Encoder
+D Rotary encoder, dual channel, incremental quadrate outputs
+K rotary switch encoder
+F ~
+$ENDCMP
+#
+$CMP SC84510FP
+D Two in one scrolling mouse, DIP-16
+K Two in one scrolling mouse, DIP-16
+F http://www.datasheet.es/PDF/1077532/SC84510-pdf.html
+$ENDCMP
+#
+#End Doc Library
